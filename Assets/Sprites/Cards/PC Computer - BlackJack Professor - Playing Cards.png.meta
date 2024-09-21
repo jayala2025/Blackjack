@@ -1,0 +1,1359 @@
+fileFormatVersion: 2
+guid: 48710e62058f3416590075fdb3983866
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - BlackJack Professor - Playing Cards_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 289
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91c697dcd07642c9a3d41a99b995979
+      internalID: -1410375151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BlackJack Professor - Playing Cards_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 287
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1167b1290d85e4772b2ed6eec9b102ae
+      internalID: 1331550787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BlackJack Professor - Playing Cards_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 288.75
+        width: 72.07143
+        height: 96.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ddb918794a14a57b5b6d919e38ac2c
+      internalID: -2047311074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BlackJack Professor - Playing Cards_3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 288.75
+        width: 72.07143
+        height: 96.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c137b232bc62b4d78b46fd0f7be07bb7
+      internalID: -662372528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BlackJack Professor - Playing Cards_4
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288.75
+        width: 72.07143
+        height: 96.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d65df5d6448b47b08f0fb80a3a6fa6e
+      internalID: -2111883741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BlackJack Professor - Playing Cards_5
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 289
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec31016a4f52463c9e63bbdfc032bb5
+      internalID: 533518604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BlackJack Professor - Playing Cards_6
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 288.75
+        width: 72.07143
+        height: 96.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605c7aa7a294b41f6af945173ec71ae7
+      internalID: -1757679127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BlackJack Professor - Playing Cards_7
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 288.75
+        width: 72.07143
+        height: 96.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c99fd22fe2748f5a74d0411c2547c5
+      internalID: -1760660184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BlackJack Professor - Playing Cards_8
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 288.75
+        width: 72.07143
+        height: 96.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecaa2b53d4ab14de19f075f9ed1ca0b1
+      internalID: 438772680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BlackJack Professor - Playing Cards_9
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 288.75
+        width: 72.07143
+        height: 96.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06f9b29b08b845c382ec67abe48ef51
+      internalID: -1160627051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BlackJack Professor - Playing Cards_10
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 288.75
+        width: 72.07143
+        height: 96.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0336476fc90642f09fa5fa1940ca761
+      internalID: -773117576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BlackJack Professor - Playing Cards_11
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 288.75
+        width: 72.07143
+        height: 96.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73e5721ca2624e4aa5c3ab5cb4a06e3
+      internalID: 104704773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BlackJack Professor - Playing Cards_12
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 288.75
+        width: 72.07143
+        height: 96.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377848c7e744c40aaa5d5f86bdcf6011
+      internalID: 2056188520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BlackJack Professor - Playing Cards_13
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 288.75
+        width: 72.07143
+        height: 96.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf29a5214c804149a690e34f579d332
+      internalID: -355565883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BlackJack Professor - Playing Cards_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192.75
+        width: 72.07143
+        height: 96.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ece6d374090d4b57ac27d329a50e333
+      internalID: -1916489893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BlackJack Professor - Playing Cards_15
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 192.75
+        width: 72.07143
+        height: 96.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e77d2d3ebe9498791fb43c1a22e4b2
+      internalID: 318010290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BlackJack Professor - Playing Cards_16
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192.75
+        width: 72.07143
+        height: 96.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5284e735063468f9d765c979b9dc23
+      internalID: 1717259080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BlackJack Professor - Playing Cards_17
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 192.75
+        width: 72.07143
+        height: 96.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a7286ef674e442a868e307a0457401
+      internalID: 1824537400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BlackJack Professor - Playing Cards_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192.75
+        width: 72.07143
+        height: 96.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919cbb5e07a26422bb187dd1b0014825
+      internalID: 1689994121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BlackJack Professor - Playing Cards_19
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 192.75
+        width: 72.07143
+        height: 96.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf40968a7e4349928633c64fea3d74b
+      internalID: -2087982768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BlackJack Professor - Playing Cards_20
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 192.75
+        width: 72.07143
+        height: 96.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0651838573784f348a79b82127f9f6c
+      internalID: -126611501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BlackJack Professor - Playing Cards_21
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 192.75
+        width: 72.07143
+        height: 96.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204361ae6ef67434cbadecf173cd022c
+      internalID: -1242673785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BlackJack Professor - Playing Cards_22
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192.75
+        width: 72.07143
+        height: 96.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6c182681cc54685bfa8caa00cb2472
+      internalID: -101329404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BlackJack Professor - Playing Cards_23
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 192.75
+        width: 72.07143
+        height: 96.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6025a55d45c4c39b403d93eff20189
+      internalID: 648455455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BlackJack Professor - Playing Cards_24
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 192.75
+        width: 72.07143
+        height: 96.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5de301ccf72541adbd424dd9ad2855d
+      internalID: -2095915557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BlackJack Professor - Playing Cards_25
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 192.75
+        width: 72.07143
+        height: 96.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89af0393450b747119dead932351efd4
+      internalID: -780772037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BlackJack Professor - Playing Cards_26
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 192.75
+        width: 72.07143
+        height: 96.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65246ebf9b3aa484bbdcb19ec8525e47
+      internalID: -648766452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BlackJack Professor - Playing Cards_27
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 192.75
+        width: 72.07143
+        height: 96.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529060771b73f40a7b9a9c9439e13390
+      internalID: 1734282472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BlackJack Professor - Playing Cards_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96.75
+        width: 72.07143
+        height: 96.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a80b1d068b54abcb51bbc95b9af537
+      internalID: -1063425050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BlackJack Professor - Playing Cards_29
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 96.75
+        width: 72.07143
+        height: 96.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1003400cc9f57432583868cab92ffbd9
+      internalID: 237229923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BlackJack Professor - Playing Cards_30
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96.75
+        width: 72.07143
+        height: 96.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18307864e9f224f058c9153bb9b8d206
+      internalID: -1719244719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BlackJack Professor - Playing Cards_31
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 96.75
+        width: 72.07143
+        height: 96.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885a73a2e0b6d4e61b1e724ca8025937
+      internalID: 1872718233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BlackJack Professor - Playing Cards_32
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96.75
+        width: 72.07143
+        height: 96.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a744155fb9994223bcccdaa6fc6ff8b
+      internalID: 1372773564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BlackJack Professor - Playing Cards_33
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 96.75
+        width: 72.07143
+        height: 96.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b2599529eee43e696548d377363b9e
+      internalID: 678829324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BlackJack Professor - Playing Cards_34
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 96.75
+        width: 72.07143
+        height: 96.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b41a975629a4c5bb94c3301dca666e
+      internalID: -1168329082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BlackJack Professor - Playing Cards_35
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 96.75
+        width: 72.07143
+        height: 96.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e7e64cf81a64beb9239380263b4e5e
+      internalID: 1490921692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BlackJack Professor - Playing Cards_36
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 96.75
+        width: 72.07143
+        height: 96.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce2191fc86324c98af246dc92fc6132
+      internalID: 2125745059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BlackJack Professor - Playing Cards_37
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 96.75
+        width: 72.07143
+        height: 96.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44e13c5a18364034bf6426209523654
+      internalID: 1127306978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BlackJack Professor - Playing Cards_38
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 96.75
+        width: 72.07143
+        height: 96.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9b2a769128243a187e7a630baad30f
+      internalID: 672073698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BlackJack Professor - Playing Cards_39
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 96.75
+        width: 72.07143
+        height: 96.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91273f4870af4740a891f468512311a
+      internalID: 252876118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BlackJack Professor - Playing Cards_40
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 96.75
+        width: 72.07143
+        height: 96.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b752fe0900d42f6800b9e7507aa5a9
+      internalID: 773594921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BlackJack Professor - Playing Cards_41
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 96.75
+        width: 72.07143
+        height: 96.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb149dbb62394f3085c710998d3059a
+      internalID: -1859072628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BlackJack Professor - Playing Cards_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.75
+        width: 72.07143
+        height: 96.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0174e7cdce133486ab914a41ceb3b8df
+      internalID: -1910076462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BlackJack Professor - Playing Cards_43
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0.75
+        width: 72.07143
+        height: 96.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae4fb89ce9ab49ebb01bf241aba777e
+      internalID: 1413201294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BlackJack Professor - Playing Cards_44
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0.75
+        width: 72.07143
+        height: 96.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6398bc5bf785c40e481da2b7add3b224
+      internalID: -1456020369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BlackJack Professor - Playing Cards_45
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0.75
+        width: 72.07143
+        height: 96.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8373012f16d4d4986b8d0b246fbc0e
+      internalID: 1996892073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BlackJack Professor - Playing Cards_46
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0.75
+        width: 72.07143
+        height: 96.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130cc3f43c8f74cfbbc6706aaef65392
+      internalID: 2134801811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BlackJack Professor - Playing Cards_47
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0.75
+        width: 72.07143
+        height: 96.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86ba8720b8204a9ab14aa2eb2022570
+      internalID: -1059293278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BlackJack Professor - Playing Cards_48
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0.75
+        width: 72.07143
+        height: 96.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e266191d356f4579828353484e4c8f8
+      internalID: -1683002078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BlackJack Professor - Playing Cards_49
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 0.75
+        width: 72.07143
+        height: 96.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254c20cf716ec4840983ba939959d28b
+      internalID: -1935577748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BlackJack Professor - Playing Cards_50
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0.75
+        width: 72.07143
+        height: 96.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2495faa1b54614634a7b4693cdd69530
+      internalID: 2048752457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BlackJack Professor - Playing Cards_51
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 0.75
+        width: 72.07143
+        height: 96.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b2957c857454024914cbd9aff8adf7
+      internalID: -512243091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BlackJack Professor - Playing Cards_52
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0.75
+        width: 72.07143
+        height: 96.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a62b18addf1459ea93e8b5d94e6ea1
+      internalID: 873362279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BlackJack Professor - Playing Cards_53
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 0.75
+        width: 72.07143
+        height: 96.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f501ee944898849679bfae9179a89e34
+      internalID: 467320923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BlackJack Professor - Playing Cards_54
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0.75
+        width: 72.07143
+        height: 96.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e10663d8de22473d8feb64762a94bb1
+      internalID: 553034871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BlackJack Professor - Playing Cards_55
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 0.75
+        width: 72.07143
+        height: 96.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65b14ec7be034d2b8df7777e3a9f9a9
+      internalID: -1979782409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - BlackJack Professor - Playing Cards_0: -1410375151
+      PC Computer - BlackJack Professor - Playing Cards_1: 1331550787
+      PC Computer - BlackJack Professor - Playing Cards_10: -773117576
+      PC Computer - BlackJack Professor - Playing Cards_11: 104704773
+      PC Computer - BlackJack Professor - Playing Cards_12: 2056188520
+      PC Computer - BlackJack Professor - Playing Cards_13: -355565883
+      PC Computer - BlackJack Professor - Playing Cards_14: -1916489893
+      PC Computer - BlackJack Professor - Playing Cards_15: 318010290
+      PC Computer - BlackJack Professor - Playing Cards_16: 1717259080
+      PC Computer - BlackJack Professor - Playing Cards_17: 1824537400
+      PC Computer - BlackJack Professor - Playing Cards_18: 1689994121
+      PC Computer - BlackJack Professor - Playing Cards_19: -2087982768
+      PC Computer - BlackJack Professor - Playing Cards_2: -2047311074
+      PC Computer - BlackJack Professor - Playing Cards_20: -126611501
+      PC Computer - BlackJack Professor - Playing Cards_21: -1242673785
+      PC Computer - BlackJack Professor - Playing Cards_22: -101329404
+      PC Computer - BlackJack Professor - Playing Cards_23: 648455455
+      PC Computer - BlackJack Professor - Playing Cards_24: -2095915557
+      PC Computer - BlackJack Professor - Playing Cards_25: -780772037
+      PC Computer - BlackJack Professor - Playing Cards_26: -648766452
+      PC Computer - BlackJack Professor - Playing Cards_27: 1734282472
+      PC Computer - BlackJack Professor - Playing Cards_28: -1063425050
+      PC Computer - BlackJack Professor - Playing Cards_29: 237229923
+      PC Computer - BlackJack Professor - Playing Cards_3: -662372528
+      PC Computer - BlackJack Professor - Playing Cards_30: -1719244719
+      PC Computer - BlackJack Professor - Playing Cards_31: 1872718233
+      PC Computer - BlackJack Professor - Playing Cards_32: 1372773564
+      PC Computer - BlackJack Professor - Playing Cards_33: 678829324
+      PC Computer - BlackJack Professor - Playing Cards_34: -1168329082
+      PC Computer - BlackJack Professor - Playing Cards_35: 1490921692
+      PC Computer - BlackJack Professor - Playing Cards_36: 2125745059
+      PC Computer - BlackJack Professor - Playing Cards_37: 1127306978
+      PC Computer - BlackJack Professor - Playing Cards_38: 672073698
+      PC Computer - BlackJack Professor - Playing Cards_39: 252876118
+      PC Computer - BlackJack Professor - Playing Cards_4: -2111883741
+      PC Computer - BlackJack Professor - Playing Cards_40: 773594921
+      PC Computer - BlackJack Professor - Playing Cards_41: -1859072628
+      PC Computer - BlackJack Professor - Playing Cards_42: -1910076462
+      PC Computer - BlackJack Professor - Playing Cards_43: 1413201294
+      PC Computer - BlackJack Professor - Playing Cards_44: -1456020369
+      PC Computer - BlackJack Professor - Playing Cards_45: 1996892073
+      PC Computer - BlackJack Professor - Playing Cards_46: 2134801811
+      PC Computer - BlackJack Professor - Playing Cards_47: -1059293278
+      PC Computer - BlackJack Professor - Playing Cards_48: -1683002078
+      PC Computer - BlackJack Professor - Playing Cards_49: -1935577748
+      PC Computer - BlackJack Professor - Playing Cards_5: 533518604
+      PC Computer - BlackJack Professor - Playing Cards_50: 2048752457
+      PC Computer - BlackJack Professor - Playing Cards_51: -512243091
+      PC Computer - BlackJack Professor - Playing Cards_52: 873362279
+      PC Computer - BlackJack Professor - Playing Cards_53: 467320923
+      PC Computer - BlackJack Professor - Playing Cards_54: 553034871
+      PC Computer - BlackJack Professor - Playing Cards_55: -1979782409
+      PC Computer - BlackJack Professor - Playing Cards_6: -1757679127
+      PC Computer - BlackJack Professor - Playing Cards_7: -1760660184
+      PC Computer - BlackJack Professor - Playing Cards_8: 438772680
+      PC Computer - BlackJack Professor - Playing Cards_9: -1160627051
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
